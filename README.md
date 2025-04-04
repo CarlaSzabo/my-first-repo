@@ -3,7 +3,7 @@ My first repository. Wish me luck!
 
 # My First GitHub Project 
 
-Welcome to my GitHub project repository! 
+Welcome to my GitHub project repository! Follow along to learn with me.
 
 ## About 
 
