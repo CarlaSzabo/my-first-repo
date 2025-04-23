@@ -9,6 +9,10 @@ Welcome to my GitHub project repository!
 
 This project is a practice exercise for learning GitHub basics. 
 
+## Features 
+- Instructions for beginners. 
+- Easy-to-follow examples.  
+
 ## How to Contribute 
 
 - Fork the repository. 
